@@ -20,7 +20,7 @@
     <a href="mailto:mahiagnihotri.20234097@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://leetcode.com/agnihotrimahi" target="_blank">
+    <a href="https://leetcode.com/u/agnihotrimahi70/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <a href="https://codeforces.com/profile/agnihotrimahi" target="_blank">

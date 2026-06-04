@@ -31,14 +31,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AGNIHOTRIMAHI&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -48,10 +40,12 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
+### 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGNIHOTRIMAHI&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGNIHOTRIMAHI&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGNIHOTRIMAHI/AGNIHOTRIMAHI/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGNIHOTRIMAHI/AGNIHOTRIMAHI/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AGNIHOTRIMAHI/AGNIHOTRIMAHI/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>

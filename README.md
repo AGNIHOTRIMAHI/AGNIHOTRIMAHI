@@ -1,6 +1,13 @@
 <div align="center">
-  <h1>Hi there, I'm Mahi Agnihotri 👋</h1>
-  <h3>Full-Stack Developer | Competitive Programmer | GenAI & Agentic AI Enthusiast | ECE Undergrad</h3>
+  <!-- Animated Typewriter Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Hi+there,+I'm+Mahi+Agnihotri+👋" alt="Animated Name" />
+  </a>
+  
+  <!-- Animated Subtitle (Cycles through your specialties) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer;Competitive+Programmer;GenAI+%26+Agentic+AI+Enthusiast;ECE+Undergrad" alt="Animated Roles" />
+  </a>
   
   <p>
     I am a developer who bridges the gap between scalable web architecture and cutting-edge Artificial Intelligence. Currently pursuing my B.Tech in Electronics and Communication Engineering at MNNIT Allahabad, I specialize in building robust full-stack applications, event-driven microservices, and orchestrating intelligent, agent-based AI workflows.
@@ -21,16 +28,6 @@
     </a>
   </p>
 </div>
-
----
-
-### 🚀 About Me
-
-* 🎓 **Education:** B.Tech in Electronics and Communication Engineering at **MNNIT Allahabad** (Class of 2027, CPI: 8.38).
-* 💻 **Web Development:** Proficient in the **MERN stack**, SQL (PostgreSQL), and building scalable microservices with Docker and RabbitMQ.
-* 🤖 **Artificial Intelligence:** Passionate about **Agentic AI** and **GenAI**, with hands-on experience building Multi-Agent systems using LangGraph and the Gemini API.
-* 🏆 **Competitive Programming:** **Knight** on LeetCode and **Specialist** on Codeforces, with over 1,400+ DSA problems solved.
-* 🤝 **Leadership:** Web Team Member at the Electronics Society (MNNIT) and Interviewer/Mentor for Expanding Horizon 7.0.
 
 ---
 
@@ -56,9 +53,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 
 ---
 

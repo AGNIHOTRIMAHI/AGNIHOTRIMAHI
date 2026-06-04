@@ -1,7 +1,8 @@
 <div align="center">
   <!-- Animated Typewriter Header -->
+  <!-- Animated Typewriter Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Hi+there,+I'm+Mahi+Agnihotri+👋" alt="Animated Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Hi+there,+I%27m+Mahi+Agnihotri+%F0%9F%91%8B" alt="Animated Name" />
   </a>
   
   <!-- Animated Subtitle (Cycles through your specialties) -->
